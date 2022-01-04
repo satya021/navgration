@@ -1,7 +1,15 @@
-body{
+ /* body{
     background-image: url(/mfile/photo/william-daigneault-pT9TTuuzivQ-unsplash.jpg);
-    background-size: cover;
+     background-size: cover; 
+     background: rgba(76, 175, 80, 0.3); 
+    opacity: 0.5; 
+} */
+
+.img{
+    height: 100vh;
+    width: 100%;
 }
+
 .navbar{
 background-color: rgb(24, 25, 25);
 border-radius:30px;
