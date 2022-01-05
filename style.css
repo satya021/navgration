@@ -4,7 +4,7 @@
      background: rgba(76, 175, 80, 0.3); 
     opacity: 0.5; 
 } */
-
+/* all img */
 .img{
     height: 100vh;
     width: 100%;
@@ -20,9 +20,10 @@
     width: 100%;
     /* opacity: 0.9; */
 }
-
+/* all img end */
+/* Navigration bag */
 .navbar{
-background-color: rgb(24, 25, 25);
+background-color: rgb(13, 17, 61);
 border-radius:30px;
 }
 
